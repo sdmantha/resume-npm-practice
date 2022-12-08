@@ -1,0 +1,31 @@
+{
+  "bin": {
+    "resume-me": "./index.js"
+  },
+  "name": "sdmantha-resume",
+  "version": "1.0.0",
+  "description": "practice-npm-resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "samantha delacruz",
+  "license": "ISC"
+}
+
+{
+  "name": "Samantha Delacruz",
+    "linkedin": "https://www.linkedin.com/in/tomatohammado/",
+    "github": "sdmantha",
+    "email": "sdangelcake@gmail.com",
+    "personalitytraits": [
+        "hardworking",
+        "kind",
+        "solution driven",
+        "dedicated",
+        "optomistic",
+        "bold",
+        "calm",
+        "observant"
+    ]
+}
